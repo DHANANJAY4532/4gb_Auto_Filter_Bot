@@ -8,5 +8,5 @@ else
 fi
 cd /4gb_Auto_Filter_Bot
 pip3 install -U -r requirements.txt
-echo "Starting Bot...."
+echo "Starting Bot...❤️‍🔥"
 python3 bot.py

@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/athulx80",
+    "repository": "https://github.com/athulx80/4gb_Auto_Filter_Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
